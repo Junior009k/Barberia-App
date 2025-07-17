@@ -101,5 +101,4 @@ const BarberProfileView: React.FC<BarberProfileViewProps> = ({ currentUser, onPa
         </div>
     );
 };
-
 export default BarberProfileView;
